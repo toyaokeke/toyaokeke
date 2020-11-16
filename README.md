@@ -14,7 +14,7 @@
 
 ### Hi there 👋
 
-Thanks for checking out my profile! Feel free to check out some of my repositories 😄
+Thanks for checking out my profile! Feel free to explore some of my repositories 😄
 
 ### 🎓 Background
 
