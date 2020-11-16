@@ -23,7 +23,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 
 ### 🔧 Tools & Technologies
 
-[![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](https://www.apple.com/macos/)
+[![Mac](https://img.shields.io/badge/apple-macbook%20pro%202012-%23999999.svg?&style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-ca/windows)
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
@@ -41,6 +41,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
     <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyaokeke&theme=gotham&hide=php" alt="Top Languages" />
     </p>
     <p align="center">
         <a href="https://github.com/toyaokeke/MechCombatGame">
