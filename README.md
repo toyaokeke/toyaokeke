@@ -24,7 +24,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 ### 🔧 Tools & Technologies
 
 [![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](https://www.apple.com/macos/)
-[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)](https://www.microsoft.com/en-ca/windows)
+[![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-ca/windows)
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
