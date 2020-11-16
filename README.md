@@ -1,10 +1,7 @@
-# [Toya Okeke](https://toyaokeke.github.io)
+# [Toya Okeke](https://toyaokeke.github.io) ![Followers](https://img.shields.io/github/followers/toyaokeke?&style=social)
 
 ![Visitor Count](https://profile-counter.glitch.me/{toyaokeke}/count.svg)
-![Profile Picture](me.png)
-
-[![Version](https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/toyaokeke)
-[![Version](https://img.shields.io/github/followers/toyaokeke?&style=social)](https://github.com/toyaokeke)
+[![Version](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toyaokeke)
 
 ### Hi there 👋
 
