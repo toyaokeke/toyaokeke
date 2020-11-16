@@ -18,8 +18,8 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 
 ### 🎓 Background
 
-- ✨ M. Eng in Software Engineering @ [University of Calgary](https://ucalgary.ca)
-- ✨ B. Sc in Mechanical Engineering @ [University of Alberta](https://ualberta.ca)
+- ✨ M. Eng in Software Engineering @ucalgary
+- ✨ B. Sc in Mechanical Engineering @ualberta
 
 ### 🔧 Tools & Technologies
 
