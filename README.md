@@ -1,5 +1,6 @@
 # [Toya Okeke](https://toyaokeke.github.io)
 
+![Visitor Count](https://profile-counter.glitch.me/{toyaokeke}/count.svg)
 ![Profile Picture](me.png)
 
 [![Version](https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/toyaokeke)
@@ -14,17 +15,9 @@ Thanks for checking out my profile! My name is Toya and I'm a **Software Enginee
 - 🎓 M. Eng in Software Engineering @ [University of Calgary](https://ucalgary.ca)
 - 🎓 B. Sc in Mechanical Engineering @ [University of Alberta](https://ualberta.ca)
 
-<!--
-**toyaokeke/toyaokeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary>📊 Github Stats</summary>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Toya Okeke | Stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
