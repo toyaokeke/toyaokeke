@@ -37,7 +37,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 [![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)](https://aws.amazon.com/)
 
 <details>
-    <summary style="font-size: 1.17em;">📈 Github Stats</summary>
+    <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Github Stats" />
     </p>
