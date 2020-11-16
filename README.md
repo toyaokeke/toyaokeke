@@ -1,11 +1,14 @@
-# [Toya Okeke](https://toyaokeke.github.io)
-
+<p align="center">
+    <a href="https://toyaokeke.github.io">
+        <img src="website.png" alt="Website"/>
+    </a>
+</p>
 <p align="center">
     <a href="https://github.com/toyaokeke?tab=followers">
-        <img align="center" src="https://img.shields.io/github/followers/toyaokeke?&style=social" alt="Followers"/>
+        <img src="https://img.shields.io/github/followers/toyaokeke?&style=social" alt="Followers"/>
     </a>
     <a href="https://linkedin.com/in/toyaokeke">
-        <img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
 
