@@ -1,6 +1,6 @@
 # [Toya Okeke](https://toyaokeke.github.io)
 
-![Followers](https://img.shields.io/github/followers/toyaokeke?&style=social)
+[![Followers](https://img.shields.io/github/followers/toyaokeke?&style=social)](https://github.com/toyaokeke?tab=followers)
 [![Version](https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/toyaokeke)
 
 ### Hi there 👋
