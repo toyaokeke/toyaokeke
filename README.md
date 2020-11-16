@@ -39,7 +39,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 <details>
     <summary style="font-size: 1.17em;">📈 Github Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Toya's Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Github Stats" />
     </p>
     <p align="center">
         <a href="https://github.com/toyaokeke/MechCombatGame">
