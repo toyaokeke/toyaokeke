@@ -40,7 +40,7 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 <details>
     <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=toyaokeke&show_icons=true&theme=gotham&count_private=true" alt="Github Stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyaokeke&theme=gotham&hide=php,jupyter%20notebook" alt="Top Languages" />
     </p>
     <p align="center">
