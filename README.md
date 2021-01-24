@@ -47,13 +47,5 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
         <a href="https://github.com/toyaokeke/MechCombatGame">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyaokeke&repo=MechCombatGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mech Combat Game"/>
         </a>
-        <a href="https://github.com/toyaokeke/tic-tac-toe">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyaokeke&repo=tic-tac-toe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mech Combat Game"/>
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/toyaokeke/youtube-ui-clone">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyaokeke&repo=youtube-ui-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Youtube UI Clone"/>
-        </a>
     </p>
 </details>
