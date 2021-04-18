@@ -2,7 +2,6 @@
     <a 
         href="https://toyaokeke.github.io"
         target="_blank"
-        rel="noreferrer"
     >
         <img src="website.png" alt="Website"/>
     </a>
@@ -14,7 +13,6 @@
     <a 
         href="https://linkedin.com/in/toyaokeke"
         target="_blank"
-        rel="noreferrer"
     >
         <img src="https://img.shields.io/badge/linkedin-blue?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -31,8 +29,6 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 
 ### 🔧 Tools & Technologies
 
-[![Mac](https://img.shields.io/badge/apple-black?&style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-ca/windows)
 [![Python](https://img.shields.io/badge/python%20-%2314354C?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
