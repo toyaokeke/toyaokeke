@@ -1,5 +1,9 @@
 <p align="center">
-    <a href="https://toyaokeke.github.io">
+    <a 
+        href="https://toyaokeke.github.io"
+        target="_blank"
+        rel="noreferrer"
+    >
         <img src="website.png" alt="Website"/>
     </a>
 </p>
@@ -7,7 +11,11 @@
     <a href="https://github.com/toyaokeke?tab=followers">
         <img src="https://img.shields.io/github/followers/toyaokeke?&style=social" alt="Followers"/>
     </a>
-    <a href="https://linkedin.com/in/toyaokeke">
+    <a 
+        href="https://linkedin.com/in/toyaokeke"
+        target="_blank"
+        rel="noreferrer"
+    >
         <img src="https://img.shields.io/badge/linkedin-blue?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
@@ -35,7 +43,6 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033?&style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131?&style=flat&logo=unreal%20engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
 <details>
     <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
