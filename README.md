@@ -1,5 +1,8 @@
 <p align="center">
-    <a href="https://toyaokeke.github.io">
+    <a 
+        href="https://toyaokeke.github.io"
+        target="_blank"
+    >
         <img src="website.png" alt="Website"/>
     </a>
 </p>
@@ -7,7 +10,10 @@
     <a href="https://github.com/toyaokeke?tab=followers">
         <img src="https://img.shields.io/github/followers/toyaokeke?&style=social" alt="Followers"/>
     </a>
-    <a href="https://linkedin.com/in/toyaokeke">
+    <a 
+        href="https://linkedin.com/in/toyaokeke"
+        target="_blank"
+    >
         <img src="https://img.shields.io/badge/linkedin-blue?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
@@ -23,8 +29,6 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 
 ### 🔧 Tools & Technologies
 
-[![Mac](https://img.shields.io/badge/apple-black?&style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-ca/windows)
 [![Python](https://img.shields.io/badge/python%20-%2314354C?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330?&style=flat&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -38,7 +42,6 @@ Thanks for checking out my profile! Feel free to explore some of my repositories
 [![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-6610f2?&style=flat&logo=apollo%20graphql&logoColor=white)](https://www.apollographql.com/)
 [![Docker](https://img.shields.io/badge/docker%20-%230db7ed?&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS%20-%23FF9900?&style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131?&style=flat&logo=unreal%20engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
 <details>
     <summary style="font-size: 1.17em;"><strong>📈 Github Stats</strong></summary>
